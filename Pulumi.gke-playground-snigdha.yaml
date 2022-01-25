@@ -1,0 +1,3 @@
+config:
+  gcp:project: playground-snigdha-03vku
+  gcp:zone: europe-west1
